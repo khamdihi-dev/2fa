@@ -25,5 +25,5 @@ Alat ini dirancang untuk membantu Anda mengelola autentikasi dua faktor (2FA) da
    git clone https://github.com/khamdihi-dev/2fa
    cd 2fa
    pip3.12 install bs4 requests
-   python3.12 2fa.py
+   python3.12 Run.py
    ```
